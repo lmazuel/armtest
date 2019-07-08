@@ -288,7 +288,7 @@
         },
         {
             "name": "daemonvm-ip",
-            "type": "Microsoft.Network/publicIpAddresses",
+            "type": "Microsoft.Network/publicIpAddressesssssssssssssss",
             "apiVersion": "2018-08-01",
             "location": "[resourceGroup().location]",
             "properties": {
